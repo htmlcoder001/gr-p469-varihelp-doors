@@ -23,7 +23,7 @@
 }
 
 .door {
-    background-image: url(../images/door1.png);
+    background-image: url(images/door1.png);
     background-repeat: no-repeat;
     transform: rotateY(0deg);
     display: inline-block;
@@ -33,11 +33,11 @@
 }
 
 #door__2 {
-    background-image: url(../images/door2.png);
+    background-image: url(images/door2.png);
 }
 
 #door__3 {
-    background-image: url(../images/door3.png);
+    background-image: url(images/door3.png);
 }
 
 .door:hover {
